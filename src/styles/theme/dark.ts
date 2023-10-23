@@ -5,10 +5,10 @@ const dark: DefaultTheme = {
   name: "dark",
   title: "Escuro",
   colors: {
-    title: "#FFFFFF",
-    text: "#F5F5F5",
-    detail: "#676B70",
-    background: "#191919",
+    title: "#F0F1EE",
+    text: "#F0F1EE",
+    detail: "#777677",
+    background: "#2D2F3E",
     main: mainColors,
   },
 };

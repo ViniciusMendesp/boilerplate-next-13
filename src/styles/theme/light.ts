@@ -5,10 +5,10 @@ const light: DefaultTheme = {
   name: "light",
   title: "Claro",
   colors: {
-    title: "#2B2D2F",
-    text: "#3D4043",
-    detail: "#CBCCCE",
-    background: "#fff",
+    title: "#2D2F3E",
+    text: "#2D2F3E",
+    detail: "#777677",
+    background: "#F0F1EE",
     main: mainColors,
   },
 };
